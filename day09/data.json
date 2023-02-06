@@ -1,0 +1,15 @@
+{
+  "name": "itheima",
+  "age": 20,
+  "sex": true,
+  "girl_firend": null,
+  "boy_firend": ["tom","jack"],
+  "address": {
+    "city": "北京",
+    "street": "建材城西路"
+  },
+  "firend": [
+     {"name": "张三","age": 20},
+     {"name": "李四","age": 20}
+  ]
+}
